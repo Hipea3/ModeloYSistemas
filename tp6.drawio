@@ -1,0 +1,126 @@
+<mxfile host="Electron" modified="2023-12-12T18:34:03.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="amARa6i73k3NbEAwruLC" version="22.1.2" type="device">
+  <diagram name="Página-1" id="hOc1L81UO1tKwhsdCjOH">
+    <mxGraphModel dx="1098" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KDbvcMOTK_eSJ26MtTHS-1" target="KDbvcMOTK_eSJ26MtTHS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KDbvcMOTK_eSJ26MtTHS-1" target="KDbvcMOTK_eSJ26MtTHS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-1" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-2" value="Particulares" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-3" value="Empresa" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-10" value="Comprar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="140" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-12" value="Encargar&lt;br&gt;productos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="250" width="107.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-13" value="Enviar orden de pago/pedido" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KDbvcMOTK_eSJ26MtTHS-15" target="KDbvcMOTK_eSJ26MtTHS-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-33" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KDbvcMOTK_eSJ26MtTHS-32">
+          <mxGeometry x="-0.175" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-15" value="publicar catalogo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="100" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KDbvcMOTK_eSJ26MtTHS-17" target="KDbvcMOTK_eSJ26MtTHS-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-31" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KDbvcMOTK_eSJ26MtTHS-30">
+          <mxGeometry x="-0.004" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-17" value="procesar pedidos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="250" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.511;entryY=-0.068;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KDbvcMOTK_eSJ26MtTHS-18" target="KDbvcMOTK_eSJ26MtTHS-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="465" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-23" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KDbvcMOTK_eSJ26MtTHS-21">
+          <mxGeometry x="0.3463" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KDbvcMOTK_eSJ26MtTHS-18" target="KDbvcMOTK_eSJ26MtTHS-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-24" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KDbvcMOTK_eSJ26MtTHS-22">
+          <mxGeometry x="0.3468" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-18" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;clientes&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="250" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-19" value="particular" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="360" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-20" value="empresa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="360" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.53;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KDbvcMOTK_eSJ26MtTHS-10" target="KDbvcMOTK_eSJ26MtTHS-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-29" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KDbvcMOTK_eSJ26MtTHS-26">
+          <mxGeometry x="-0.271" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.538;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KDbvcMOTK_eSJ26MtTHS-12" target="KDbvcMOTK_eSJ26MtTHS-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-28" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KDbvcMOTK_eSJ26MtTHS-27">
+          <mxGeometry x="-0.2093" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-34" value="Empresa Intermediaria" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KDbvcMOTK_eSJ26MtTHS-35" target="KDbvcMOTK_eSJ26MtTHS-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-35" value="Empresa Proovedora" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="255" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.026;entryY=0.426;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KDbvcMOTK_eSJ26MtTHS-34" target="KDbvcMOTK_eSJ26MtTHS-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-38" value="Enviar pedidos a domicilio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="430" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-39" value="Empresa Mensajeria" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KDbvcMOTK_eSJ26MtTHS-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.431;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KDbvcMOTK_eSJ26MtTHS-39" target="KDbvcMOTK_eSJ26MtTHS-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
